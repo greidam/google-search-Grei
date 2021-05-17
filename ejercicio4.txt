@@ -1,0 +1,21 @@
+﻿"amount": 20000
+Casos:
+1.- Monto min y max
+2.-Formato adecuado
+
+
+     "expirationDate": "2020-01-31"
+Casos:
+1.-Formato adecuado
+2.-Fecha no puede ser menor a hoy
+
+"storeId": 1037
+Casos:
+1.-Id debe ser único
+2.-Formato adecuado
+
+
+        "dni": "111111111"
+Casos:
+1.-Formato adecuado
+2.-No puede ser 0

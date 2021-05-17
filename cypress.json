@@ -1,0 +1,4 @@
+{
+        "integrationFolder": "./cypress/features",
+        "pluginsFile": "./cypress/plugins/index.js"
+}
